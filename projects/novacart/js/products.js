@@ -1,0 +1,9 @@
+const products=[
+{id:1,name:'Wireless Headphones',cat:'Electronics',price:420,img:'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80',rating:4.8,desc:'Comfortable wireless headphones with rich sound, deep bass and long battery life.'},
+{id:2,name:'Smart Watch Pro',cat:'Electronics',price:680,img:'https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80',rating:4.7,desc:'A stylish smartwatch for fitness tracking, notifications and everyday productivity.'},
+{id:3,name:'Classic Sneakers',cat:'Fashion',price:350,img:'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80',rating:4.6,desc:'Clean everyday sneakers designed for comfort and versatile streetwear style.'},
+{id:4,name:'Leather Backpack',cat:'Fashion',price:290,img:'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80',rating:4.5,desc:'Durable backpack with practical storage for school, work and travel.'},
+{id:5,name:'Skincare Set',cat:'Beauty',price:240,img:'https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=800&q=80',rating:4.8,desc:'A simple daily skincare collection for a fresh everyday routine.'},
+{id:6,name:'Minimal Desk Lamp',cat:'Home',price:180,img:'https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80',rating:4.4,desc:'Modern adjustable lighting for your desk or bedside table.'},
+{id:7,name:'Portable Speaker',cat:'Electronics',price:320,img:'https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80',rating:4.7,desc:'Compact Bluetooth speaker with powerful sound for home and outdoors.'},
+{id:8,name:'Classic Sunglasses',cat:'Fashion',price:150,img:'https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80',rating:4.3,desc:'Timeless lightweight sunglasses for everyday style.'}];
