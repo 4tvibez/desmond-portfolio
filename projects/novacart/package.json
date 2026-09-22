@@ -1,1 +1,11 @@
-{"name":"novacart","version":"1.0.0","scripts":{"start":"npx serve . -l $PORT"},"dependencies":{"serve":"14.2.4"}}
+{
+  "name": "ecommerce-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
